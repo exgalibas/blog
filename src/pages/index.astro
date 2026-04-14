@@ -41,7 +41,7 @@ const recentPosts = sortedPosts;
       </a>
 
       <p>
-        欢迎来到我的博客！这里记录想法、分享经验，偶尔写写技术和生活。
+        欢迎来到我的博客！记录想法、分享经验。
       </p>
       <p class="mt-2">
         浏览文章，或者到
@@ -52,15 +52,6 @@ const recentPosts = sortedPosts;
           关于
         </LinkButton> 页面了解更多。
       </p>
-      {
-        // only display if at least one social link is enabled
-        SOCIALS.length > 0 && (
-          <div class="mt-4 flex max-sm:flex-col sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">社交链接：</div>
-            <Socials />
-          </div>
-        )
-      }
     </section>
 
     {
