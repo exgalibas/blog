@@ -1,7 +1,7 @@
 ---
 title: "k8s搭建xxl-job环境"
 author: "Joker"
-pubDatetime: 2021-07-11T11:51:18+08:00
+pubDatetime: 2022-07-11T11:51:18+08:00
 draft: false
 tags:
   - "k8s"
