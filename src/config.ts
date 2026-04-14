@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://blog.example.com/", // 替换为你的部署域名
+  website: "https://killtl.netlify.app/",
   author: "Joker",
   profile: "https://github.com/exgalibas",
   desc: "记录想法、分享经验 — 一个简洁、响应式的个人博客。",
