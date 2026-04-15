@@ -12,10 +12,10 @@ description: "Golang map的实现源码解析"
 map是啥？怎么用？这两个问题搞不清楚的，不用往下看了，先弄清楚再说
 
 ### 源码解析
-先看看参考资料
-[深度解密Go语言之 map](https://juejin.cn/post/6844903848587296781#heading-8)
-[map笔记](https://github.com/cch123/golang-notes/blob/master/map.md)
-[Go源码学习之map](https://www.kevinwu0904.top/blogs/golang-map/#map%E7%9A%84%E5%88%9B%E5%BB%BA)
+先看看参考资料  
+[深度解密Go语言之 map](https://juejin.cn/post/6844903848587296781#heading-8)  
+[map笔记](https://github.com/cch123/golang-notes/blob/master/map.md)  
+[Go源码学习之map](https://www.kevinwu0904.top/blogs/golang-map/#map%E7%9A%84%E5%88%9B%E5%BB%BA)  
 本文源码解析部分，会做一个全面的解析，补充上面没说到或者没说清楚的
 
 #### 创建
